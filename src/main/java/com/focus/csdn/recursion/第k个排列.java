@@ -1,8 +1,7 @@
-package com.focus.recursion;
+package com.focus.csdn.recursion;
 
 import java.util.Arrays;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class 第k个排列 {

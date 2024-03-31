@@ -1,6 +1,9 @@
 package com.focus.leetcode.number_28;
 
 
+import java.util.LinkedHashMap;
+import java.util.LinkedList;
+
 /**
  * https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/
  */
@@ -41,6 +44,9 @@ public class Solution {
     }
 
     public static void main(String[] args) {
+        LinkedHashMap<String, Integer> map = new LinkedHashMap<>();
+        map.put("a", 1);
+
         Solution solution = new Solution();
         System.out.println(solution.strStr("asdssadbutsad", "sad"));
     }

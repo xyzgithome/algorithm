@@ -1,4 +1,4 @@
-package com.focus.greedy;
+package com.focus.csdn.greedy;
 
 import java.util.Arrays;
 import java.util.HashMap;
