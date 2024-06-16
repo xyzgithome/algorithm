@@ -1,4 +1,4 @@
-package com.focus.leetcode.no3;
+package com.focus.leetcode.no_3;
 
 public class Solution {
     public static void main(String[] args) {
